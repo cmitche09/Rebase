@@ -11,3 +11,5 @@ Change 4 - happens after push to remote repo -> GitHub
 Change 5 - random changes
 
 THESE ARE THE NEW CHANGES FOR THE TESTING COMMIT
+
+New Changes
